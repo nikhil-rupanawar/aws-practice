@@ -1,2 +1,2 @@
 # aws-practice
-AWS practice
+AWS practice with boto3
